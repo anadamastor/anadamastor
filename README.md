@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ervis</h1>
-<h3 align="center"> I jave completed the LeWagon </h3>
+<h1 align="center">Hello visitor, I'm Ervis</h1>
+<h3 align="center"> I am a software developer and improv-comedy enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anadamastor&label=Profile%20views&color=0e75b6&style=flat" alt="anadamastor" /> </p>
 
 - 🌱 I’m currently learning everything.
 - 📫 How to reach me **ervis.lapi@gmail.com**.
 - ⚡ Fun fact **I almost tamed a squirrel called Alfredo.**
+- 🎓<a href="https://issuu.com/lervis87/docs/ervis_lapi_portfolio_sel" target="blank">My architecture portfolio from M.Sc. in BE</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ervislapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ervislapi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ervislapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ervislapi" height="10" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
