@@ -1,5 +1,5 @@
 <h1 align="center">Hello visitor, I'm Ervis</h1>
-<h3 align="center"> I am a software developer and improv-comedy enthusiast</h3>
+<h3 align="center"> Enthusiastic software developer and improv-comedy passionate</h3>
 
 - 🌱 I’m currently learning everything.
 - 📫 Reach me here:  **ervis.lapi@gmail.com** | <a href="https://linkedin.com/in/ervislapi" target="blank">linkedin</a>
