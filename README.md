@@ -1,5 +1,5 @@
 <h1 align="center">Hello visitor, I'm Ervis</h1>
-<h3 align="center"> Graduate SWE at Marks and Spencer</h3>
+<h3 align="center"> SWE at Marks and Spencer</h3>
 
 - 🌱 I’m currently learning: **everything**.
 - 📫 Reach me here: <a href="https://linkedin.com/in/ervislapi" target="blank">linkedin</a>
